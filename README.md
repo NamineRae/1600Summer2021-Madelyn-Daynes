@@ -1,4 +1,5 @@
 # 1600Summer2021-Madelyn Daynes
  Repo for my summer 2021 DGM 1600 class
 
- $ git config --global user.username <NamineRae>
+--global user.username <NamineRae>
+
